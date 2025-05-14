@@ -1,3 +1,6 @@
 Something to do: 
 learn git and github
 get deeper understanding-> Update line
+
+trenutno sam u branch test, trebalo bi da se ovo ne vidi na main git-u
+ovo je dodato preko gedit u teminalu
